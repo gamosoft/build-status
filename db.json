@@ -77,12 +77,6 @@
             "timestamp": "2020-01-14 23:00:00",
             "time": 120,
             "success": true
-        },
-        {
-            "environment": "QA",
-            "timestamp": "2020-02-08 23:00:00",
-            "time": 210,
-            "success": false
         }
     ]
 }
