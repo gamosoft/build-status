@@ -2,49 +2,49 @@
     "buildresults": [
         {
             "environment": "QA",
-            "timestamp": "11/01/2020 23:00:00",
+            "timestamp": "03/01/2020 23:00:00",
             "time": 100,
             "success": true
         },
         {
             "environment": "QA",
-            "timestamp": "11/01/2020 23:00:00",
+            "timestamp": "04/01/2020 23:00:00",
             "time": 120,
             "success": true
         },
         {
             "environment": "QA",
-            "timestamp": "11/01/2020 23:00:00",
+            "timestamp": "05/01/2020 23:00:00",
             "time": 110,
             "success": true
         },
         {
             "environment": "QA",
-            "timestamp": "11/01/2020 23:00:00",
+            "timestamp": "06/01/2020 23:00:00",
             "time": 90,
             "success": false
         },
         {
             "environment": "QA",
-            "timestamp": "11/01/2020 23:00:00",
+            "timestamp": "07/01/2020 23:00:00",
             "time": 124,
             "success": true
         },
         {
             "environment": "QA",
-            "timestamp": "11/01/2020 23:00:00",
+            "timestamp": "08/01/2020 23:00:00",
             "time": 210,
             "success": false
         },
         {
             "environment": "QA",
-            "timestamp": "11/01/2020 23:00:00",
+            "timestamp": "09/01/2020 23:00:00",
             "time": 200,
             "success": true
         },
         {
             "environment": "QA",
-            "timestamp": "11/01/2020 23:00:00",
+            "timestamp": "10/01/2020 23:00:00",
             "time": 120,
             "success": true
         },
