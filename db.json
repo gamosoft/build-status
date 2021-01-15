@@ -1,0 +1,76 @@
+{
+    "buildresults": [
+        {
+            "environment": "QA",
+            "timestamp": "11/01/2020 23:00:00",
+            "time": 100,
+            "success": true
+        },
+        {
+            "environment": "QA",
+            "timestamp": "11/01/2020 23:00:00",
+            "time": 120,
+            "success": true
+        },
+        {
+            "environment": "QA",
+            "timestamp": "11/01/2020 23:00:00",
+            "time": 110,
+            "success": true
+        },
+        {
+            "environment": "QA",
+            "timestamp": "11/01/2020 23:00:00",
+            "time": 90,
+            "success": false
+        },
+        {
+            "environment": "QA",
+            "timestamp": "11/01/2020 23:00:00",
+            "time": 124,
+            "success": true
+        },
+        {
+            "environment": "QA",
+            "timestamp": "11/01/2020 23:00:00",
+            "time": 210,
+            "success": false
+        },
+        {
+            "environment": "QA",
+            "timestamp": "11/01/2020 23:00:00",
+            "time": 200,
+            "success": true
+        },
+        {
+            "environment": "QA",
+            "timestamp": "11/01/2020 23:00:00",
+            "time": 120,
+            "success": true
+        },
+        {
+            "environment": "QA",
+            "timestamp": "11/01/2020 23:00:00",
+            "time": 120,
+            "success": true
+        },
+        {
+            "environment": "QA",
+            "timestamp": "12/01/2020 23:00:00",
+            "time": 140,
+            "success": false
+        },
+        {
+            "environment": "QA",
+            "timestamp": "13/01/2020 23:00:00",
+            "time": 120,
+            "success": true
+        },
+        {
+            "environment": "QA",
+            "timestamp": "14/01/2020 23:00:00",
+            "time": 120,
+            "success": true
+        }
+    ]
+}
