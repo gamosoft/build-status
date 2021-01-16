@@ -1,4 +1,4 @@
-const baseUrl = 'https://my-json-server.typicode.com/gvillar-advanced/build-status';
+const baseUrl = 'https://my-json-server.typicode.com/gamosoft/build-status';
 const numDays = 14;
 
 const successColor = "rgb(0, 255, 0)";
