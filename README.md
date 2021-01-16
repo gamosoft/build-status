@@ -6,6 +6,6 @@ This uses the free https://my-json-server.typicode.com/ service which is valid f
 
 If you need more power you can also install the server (https://github.com/typicode/json-server) or host the DB elsewhere.
 
-Check the demo working here: https://gvillar-advanced.github.io/build-status/
+Check the demo working here: https://gamosoft.github.io/build-status/
 
 HTH
