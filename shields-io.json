@@ -2,5 +2,8 @@
     "schemaVersion": 1,
     "label": "build",
     "message": "success",
-    "color": "success"
+    "style": "plastic",
+    "color": "success",
+    "namedLogo": "github",
+    "logoColor": "success"
   }
